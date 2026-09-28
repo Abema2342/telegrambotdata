@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-28T13:27:04+03:00",
+  "last_updated": "2026-09-28T13:32:06+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
-      "requests": 34,
-      "last_message": "2026-09-28T13:25:40+03:00"
+      "requests": 42,
+      "last_message": "2026-09-28T13:29:51+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -868,6 +868,70 @@
       "first_name": "missed",
       "text": "35",
       "time": "2026-09-28T13:25:40+03:00"
+    },
+    {
+      "id": 70,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "36",
+      "time": "2026-09-28T13:28:12+03:00"
+    },
+    {
+      "id": 71,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "32",
+      "time": "2026-09-28T13:28:32+03:00"
+    },
+    {
+      "id": 72,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "33",
+      "time": "2026-09-28T13:28:36+03:00"
+    },
+    {
+      "id": 73,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "31",
+      "time": "2026-09-28T13:28:51+03:00"
+    },
+    {
+      "id": 74,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "35",
+      "time": "2026-09-28T13:29:29+03:00"
+    },
+    {
+      "id": 75,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "34",
+      "time": "2026-09-28T13:29:42+03:00"
+    },
+    {
+      "id": 76,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "33",
+      "time": "2026-09-28T13:29:44+03:00"
+    },
+    {
+      "id": 77,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "32",
+      "time": "2026-09-28T13:29:51+03:00"
     }
   ],
   "admins": [
