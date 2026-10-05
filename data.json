@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-05T21:28:02+03:00",
+  "last_updated": "2026-10-05T21:33:04+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
-      "requests": 49,
-      "last_message": "2026-10-05T21:28:02+03:00"
+      "requests": 52,
+      "last_message": "2026-10-05T21:28:16+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -1092,6 +1092,46 @@
       "first_name": "missed",
       "text": "📚 ГДЗ",
       "time": "2026-10-05T21:28:02+03:00"
+    },
+    {
+      "id": 98,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "📚 ГДЗ",
+      "time": "2026-10-05T21:28:02+03:00"
+    },
+    {
+      "id": 99,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Химия",
+      "time": "2026-10-05T21:28:07+03:00"
+    },
+    {
+      "id": 100,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "8 3",
+      "time": "2026-10-05T21:28:13+03:00"
+    },
+    {
+      "id": 101,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "8 5",
+      "time": "2026-10-05T21:28:15+03:00"
+    },
+    {
+      "id": 102,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "8 8",
+      "time": "2026-10-05T21:28:16+03:00"
     }
   ],
   "admins": [
