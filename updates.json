@@ -1,3 +1,12 @@
 {
-  "updates": []
+  "updates": [
+    {
+      "id": 1,
+      "title": "пкуп",
+      "text": "пкпку",
+      "status": "not_done",
+      "created_at": "2026-10-09T19:33:40.007Z",
+      "last_modified": "2026-10-09T19:33:40.007Z"
+    }
+  ]
 }
