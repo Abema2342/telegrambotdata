@@ -1,0 +1,171 @@
+{
+  "algebra": {
+    "name": "Алгебра",
+    "base": "GDZ/9-alg-2019",
+    "chapters": [
+      {"text": "Повторение",                       "folder": "0",  "numbers": "1-31"},
+      {"text": "Глава 1",                          "folder": "1",  "numbers": "1-265"},
+      {"text": "Я проверяю свои знания",           "folder": "2",  "numbers": "1-10"},
+      {"text": "Практическая математика",          "folder": "3",  "numbers": "1-2"},
+      {"text": "Увлекательная математика",         "folder": "4",  "numbers": "1"},
+      {"text": "Готовимся к олимпиадам",           "folder": "5",  "numbers": "1, 3"},
+      {"text": "Глава 2",                          "folder": "6",  "numbers": "1-174"},
+      {"text": "Я проверяю свои знания",           "folder": "7",  "numbers": "1-10"},
+      {"text": "Глава 3",                          "folder": "8",  "numbers": "1-222"},
+      {"text": "Я проверяю свои знания",           "folder": "9",  "numbers": "1-10"},
+      {"text": "Глава 4",                          "folder": "glava-4", "numbers": "1-306"},
+      {"text": "Я проверяю свои знания",           "folder": "glava-4-prover-znanija", "numbers": "1-10"},
+      {"text": "Практическая математика",          "folder": "glava-4-prakt", "numbers": "1-3"},
+      {"text": "Увлекательная математика",         "folder": "glava-4-uvlekat-mat", "numbers": "1-1"},
+      {"text": "Готовимся к олимпиадам",           "folder": "glava-4-olimp", "numbers": "1-2"},
+      {"text": "Итоговое повторение",              "folder": "itog-povt", "numbers": "1-325"}
+    ]
+  },
+  "geometry": {
+    "name": "Геометрия",
+    "base": "GDZ/9-geom-2019-top",
+    "chapters": [
+      {"text": "Тест за 8-ой класс",               "folder": "0",  "numbers": "1-10"},
+      {"text": "Глава 1",                          "folder": "1",  "numbers": "1-85"},
+      {"text": "Подготовка к контрольной работе 1","folder": "2",  "numbers": "1-5"},
+      {"text": "Глава 2",                          "folder": "3",  "numbers": "86-172"},
+      {"text": "Подготовка к контрольной работе 2","folder": "4",  "numbers": "1-5"},
+      {"text": "Глава 3",                          "folder": "5",  "numbers": "173-245"},
+      {"text": "Подготовка к контрольной работе 3","folder": "kr-3", "numbers": "1-5"},
+      {"text": "Глава 4",                          "folder": "glava-4", "numbers": "246-309"},
+      {"text": "Подготовка к контрольной работе 4","folder": "kr-4", "numbers": "1-5"}
+    ]
+  },
+  "russian": {
+    "name": "Русский",
+    "base": "GDZ/9-rus-2019-top",
+    "chapters": [
+      {"text": "Упражнения", "folder": "0", "numbers": "1-405"}
+    ]
+  },
+  "belarusian": {
+    "name": "Белорусский 2025",
+    "base": "GDZ/9-bel-2019-top/2025",
+    "chapters": [
+      {"text": "Упражнения", "folder": "upr", "numbers": "1-297"},
+      {"text": "Проверяем себя", "folder": "prover-sebya", "numbers": "11, 20"}
+    ]
+  },
+  "english": {
+    "name": "Английский",
+    "base": "GDZ/9-angl",
+    "chapters": [
+      {"text": "Страницы учебника", "folder": "0", "numbers": "5-276"}
+    ]
+  },
+  "activity1": {
+    "name": "Activity Book 1",
+    "base": "GDZ/9-activitybook",
+    "chapters": [
+      {"text": "Часть 1", "folder": "1-chast", "numbers": "3-89"}
+    ]
+  },
+  "activity2": {
+    "name": "Activity Book 2",
+    "base": "GDZ/9-activitybook",
+    "chapters": [
+      {"text": "Часть 2", "folder": "2-chast", "numbers": "3-121"}
+    ]
+  },
+  "physics": {
+    "name": "Физика",
+    "base": "GDZ/9-fiz-2019-2",
+    "chapters": [
+      {"text": "Параграфы", "folder": "par", "numbers": "1-18"},
+      {"text": "Упр 1",  "folder": "upr",   "numbers": "1-5"},
+      {"text": "Упр 2",  "folder": "upr-2", "numbers": "1-6"},
+      {"text": "Упр 3",  "folder": "3",     "numbers": "1-8"},
+      {"text": "Упр 4",  "folder": "4",     "numbers": "1-3"},
+      {"text": "Упр 5",  "folder": "5",     "numbers": "1-11"},
+      {"text": "Упр 6",  "folder": "6",     "numbers": "1-11"},
+      {"text": "Упр 7",  "folder": "7",     "numbers": "1-6"},
+      {"text": "Упр 8",  "folder": "8",     "numbers": "1-10"},
+      {"text": "Упр 9",  "folder": "9",     "numbers": "1-9"},
+      {"text": "Упр 10", "folder": "10",    "numbers": "1-12"},
+      {"text": "Упр 11", "folder": "11",    "numbers": "1-4"},
+      {"text": "Упр 12", "folder": "12",    "numbers": "1-5"},
+      {"text": "Упр 13", "folder": "13",    "numbers": "1-6"},
+      {"text": "Упр 14", "folder": "14",    "numbers": "1-6"},
+      {"text": "Упр 15", "folder": "15",    "numbers": "1-5"},
+      {"text": "Упр 16", "folder": "16",    "numbers": "1-8"},
+      {"text": "Упр 17", "folder": "17",    "numbers": "1-4"},
+      {"text": "Упр 18", "folder": "18",    "numbers": "1-10"},
+      {"text": "Упр 19", "folder": "19",    "numbers": "1-6"},
+      {"text": "Упр 20", "folder": "20",    "numbers": "1-6"},
+      {"text": "Упр 21", "folder": "21",    "numbers": "1-8"},
+      {"text": "Упр 22", "folder": "22",    "numbers": "1-8"},
+      {"text": "Упр 23", "folder": "23",    "numbers": "1-8"},
+      {"text": "Упр 24", "folder": "24",    "numbers": "1-6"},
+      {"text": "Упр 25", "folder": "25",    "numbers": "1-9"},
+      {"text": "Упр 26", "folder": "26",    "numbers": "1-11"},
+      {"text": "Упр 27", "folder": "27",    "numbers": "1-4"},
+      {"text": "Упр 28", "folder": "28",    "numbers": "1-3"},
+      {"text": "Упр 29", "folder": "29",    "numbers": "1-13"}
+    ]
+  },
+  "chemistry": {
+    "name": "Химия",
+    "base": "GDZ/9-him-2019",
+    "chapters": [
+      {"text": "§ 1",  "folder": "0",  "numbers": "1-8"},
+      {"text": "§ 2",  "folder": "1",  "numbers": "1-8"},
+      {"text": "§ 3",  "folder": "2",  "numbers": "1-8"},
+      {"text": "§ 4",  "folder": "3",  "numbers": "1-8"},
+      {"text": "§ 5",  "folder": "4",  "numbers": "1-8"},
+      {"text": "§ 6",  "folder": "5",  "numbers": "1-8"},
+      {"text": "§ 7",  "folder": "6",  "numbers": "1-8"},
+      {"text": "§ 8",  "folder": "7",  "numbers": "1-8"},
+      {"text": "§ 9",  "folder": "8",  "numbers": "1-8"},
+      {"text": "§ 10", "folder": "9",  "numbers": "1-8"},
+      {"text": "§ 11", "folder": "10", "numbers": "1-4"},
+      {"text": "§ 12", "folder": "11", "numbers": "1-8"},
+      {"text": "§ 13", "folder": "12", "numbers": "1-8"},
+      {"text": "§ 14", "folder": "13", "numbers": "1-8"},
+      {"text": "§ 15", "folder": "14", "numbers": "1-8"},
+      {"text": "§ 16", "folder": "15", "numbers": "1-8"},
+      {"text": "§ 17", "folder": "16", "numbers": "1-8"},
+      {"text": "§ 18", "folder": "17", "numbers": "1-8"},
+      {"text": "§ 19", "folder": "18", "numbers": "1-8"},
+      {"text": "§ 20", "folder": "19", "numbers": "1-8"},
+      {"text": "§ 21", "folder": "20", "numbers": "1-8"},
+      {"text": "§ 22", "folder": "21", "numbers": "1-8"},
+      {"text": "§ 23", "folder": "22", "numbers": "1-8"},
+      {"text": "§ 24", "folder": "23", "numbers": "1-8"},
+      {"text": "§ 25", "folder": "24", "numbers": "1-8"},
+      {"text": "§ 26", "folder": "25", "numbers": "1-8"},
+      {"text": "§ 27", "folder": "26", "numbers": "1-8"},
+      {"text": "§ 28", "folder": "27", "numbers": "1-8"},
+      {"text": "§ 29", "folder": "28", "numbers": "1-8"},
+      {"text": "§ 30", "folder": "29", "numbers": "1-8"},
+      {"text": "§ 31", "folder": "30", "numbers": "1-8"},
+      {"text": "§ 32", "folder": "31", "numbers": "1-8"},
+      {"text": "§ 33", "folder": "32", "numbers": "1-8"},
+      {"text": "§ 34", "folder": "33", "numbers": "1-8"},
+      {"text": "§ 35", "folder": "34", "numbers": "1-8"},
+      {"text": "§ 36", "folder": "35", "numbers": "1-8"},
+      {"text": "§ 37", "folder": "36", "numbers": "1-8"},
+      {"text": "§ 38", "folder": "37", "numbers": "1-8"},
+      {"text": "§ 39", "folder": "38", "numbers": "1-8"},
+      {"text": "§ 40", "folder": "39", "numbers": "1-8"},
+      {"text": "§ 41", "folder": "40", "numbers": "1-8"},
+      {"text": "§ 42", "folder": "41", "numbers": "1-8"},
+      {"text": "§ 43", "folder": "42", "numbers": "1-8"},
+      {"text": "§ 44", "folder": "43", "numbers": "1-8"},
+      {"text": "§ 45", "folder": "44", "numbers": "1-8"},
+      {"text": "§ 46", "folder": "45", "numbers": "1-8"},
+      {"text": "§ 47", "folder": "46", "numbers": "1-8"},
+      {"text": "§ 48", "folder": "47", "numbers": "1-7"},
+      {"text": "§ 49", "folder": "48", "numbers": "1-8"},
+      {"text": "§ 50", "folder": "49", "numbers": "1-8"},
+      {"text": "§ 51", "folder": "50", "numbers": "1-8"},
+      {"text": "§ 52", "folder": "51", "numbers": "1-8"},
+      {"text": "Практические работы", "folder": "pract", "numbers": "1-4"},
+      {"text": "Лабораторные работы", "folder": "labs",  "numbers": "1-6"}
+    ]
+  }
+}
