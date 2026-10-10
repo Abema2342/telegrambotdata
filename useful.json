@@ -9,14 +9,49 @@
           "id": 1,
           "title": "Формулы сокращённого умножения",
           "blocks": [
-            { "id": 1, "type": "text", "content": "Квадрат суммы:" },
-            { "id": 2, "type": "formula", "content": "(a + b)² = a² + 2ab + b²" },
-            { "id": 3, "type": "divider" },
-            { "id": 4, "type": "text", "content": "Квадрат разности:" },
-            { "id": 5, "type": "formula", "content": "(a - b)² = a² - 2ab + b²" },
-            { "id": 6, "type": "divider" },
-            { "id": 7, "type": "text", "content": "Разность квадратов:" },
-            { "id": 8, "type": "formula", "content": "a² - b² = (a - b)(a + b)" }
+            {
+              "id": 1,
+              "type": "text",
+              "content": "Квадрат суммы:"
+            },
+            {
+              "id": 2,
+              "type": "formula",
+              "content": "(a + b)² = a² + 2ab + b²"
+            },
+            {
+              "id": 3,
+              "type": "divider"
+            },
+            {
+              "id": 4,
+              "type": "text",
+              "content": "Квадрат разности:"
+            },
+            {
+              "id": 5,
+              "type": "formula",
+              "content": "(a - b)² = a² - 2ab + b²"
+            },
+            {
+              "id": 6,
+              "type": "divider"
+            },
+            {
+              "id": 7,
+              "type": "text",
+              "content": "Разность квадратов:"
+            },
+            {
+              "id": 8,
+              "type": "formula",
+              "content": "a² - b² = (a - b)(a + b)"
+            },
+            {
+              "id": 9,
+              "type": "text",
+              "content": ""
+            }
           ]
         }
       ]
