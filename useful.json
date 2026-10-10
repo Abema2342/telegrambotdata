@@ -8,9 +8,9 @@
         {
           "id": 1,
           "title": "Ввод/вывод файлов python",
-          "content": "Чтобы читать файл необходимо его открыть в режиме чтения командой $fin = open(\"input.txt\", \"r\")$ где $\"input.txt\"$ - название файла, $\"r\"$ - режим (\"r\" - read)\nДля записи информации в файл используется команда $fout = open(\"output.txt\", \"w\")$ где $\"output.txt$ - название файла, $\"w\"$ - режим (\"w\" - write)\nВ конце программы файлы надо закрывать: $fin.close()$\n                                                                              $fout.close()$\nПример программы:\n$fin = open(\"input.txt\", \"r\")$\n$fout = open(\"output.txt\", \"w\")$\n$$\n$a = fin.readline().rstrip()$\n$fout.write(a)$\n$$\n$fin.close()\n$fout.close()",
+          "content": "Чтобы читать файл необходимо его открыть в режиме чтения командой $fin = open(\"input.txt\", \"r\")$ где $\"input.txt\"$ - название файла, $\"r\"$ - режим (\"r\" - read)\nДля записи информации в файл используется команда $fout = open(\"output.txt\", \"w\")$ где $\"output.txt$ - название файла, $\"w\"$ - режим (\"w\" - write)\nВ конце программы файлы надо закрывать: $fin.close()$\n                                                                              $fout.close()$\nПример программы:\n$fin = open(\"input.txt\", \"r\")$\n$fout = open(\"output.txt\", \"w\")$\n\n$a = fin.readline().rstrip()$\n$fout.write(a)$\n\n$fin.close()$\n$fout.close()$",
           "created_at": "2026-10-10T14:52:37.428Z",
-          "last_modified": "2026-10-10T14:59:36.916Z"
+          "last_modified": "2026-10-10T14:59:48.912Z"
         }
       ]
     },
