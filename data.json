@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-11T20:48:16+03:00",
+  "last_updated": "2026-10-11T20:53:17+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
       "requests": 62,
-      "last_message": "2026-10-09T19:30:48+03:00"
+      "last_message": "2026-10-11T20:49:55+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -1716,6 +1716,14 @@
       "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
       "text": "1 114",
       "time": "2026-10-10T19:31:11+03:00"
+    },
+    {
+      "id": 176,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "[sticker] 6706322460_sticker_1791740995.webp",
+      "time": "2026-10-11T20:49:55+03:00"
     }
   ],
   "admins": [
