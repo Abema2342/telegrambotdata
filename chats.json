@@ -3,10 +3,21 @@
     {
       "id": 1,
       "mode": "math",
-      "title": "Новый чат",
-      "messages": [],
+      "title": "1+1",
+      "messages": [
+        {
+          "role": "user",
+          "text": "1+1",
+          "time": "2026-10-12T19:30:12.146Z"
+        },
+        {
+          "role": "ai",
+          "text": "Ошибка: API key not valid. Please pass a valid API key.",
+          "time": "2026-10-12T19:30:12.490Z"
+        }
+      ],
       "created_at": "2026-10-12T19:30:04.038Z",
-      "updated_at": "2026-10-12T19:30:09.243Z"
+      "updated_at": "2026-10-12T19:30:12.146Z"
     }
   ]
 }
