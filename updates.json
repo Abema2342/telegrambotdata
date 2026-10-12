@@ -272,6 +272,16 @@
       "created_at": "2026-10-12T18:14:45.417Z",
       "last_modified": "2026-10-12T18:14:45.417Z",
       "completed_at": "2026-10-12T18:14:45.417Z"
+    },
+    {
+      "id": 35,
+      "title": "",
+      "text": "Запланировано. Ассистент по домашнему заданию Gemini.",
+      "status": "not_done",
+      "category": "site",
+      "created_at": "2026-10-12T18:37:21.215Z",
+      "last_modified": "2026-10-12T18:37:21.215Z",
+      "completed_at": null
     }
   ]
 }
