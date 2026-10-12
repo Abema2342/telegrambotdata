@@ -3,10 +3,21 @@
     {
       "id": 3,
       "mode": "spelling",
-      "title": "Новый чат",
-      "messages": [],
+      "title": "eueuei",
+      "messages": [
+        {
+          "role": "user",
+          "text": "eueuei",
+          "time": "2026-10-12T20:16:03.286Z"
+        },
+        {
+          "role": "ai",
+          "text": "Ошибка: This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",
+          "time": "2026-10-12T20:16:03.957Z"
+        }
+      ],
       "created_at": "2026-10-12T20:15:43.405Z",
-      "updated_at": "2026-10-12T20:15:43.405Z"
+      "updated_at": "2026-10-12T20:16:03.286Z"
     },
     {
       "id": 1,
