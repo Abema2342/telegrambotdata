@@ -275,12 +275,12 @@
     },
     {
       "id": 35,
-      "title": "",
+      "title": "Добавление ИИ",
       "text": "Запланировано. Ассистент по домашнему заданию Gemini.",
       "status": "not_done",
       "category": "site",
       "created_at": "2026-10-12T18:37:21.215Z",
-      "last_modified": "2026-10-12T18:37:21.215Z",
+      "last_modified": "2026-10-12T18:38:09.494Z",
       "completed_at": null
     }
   ]
