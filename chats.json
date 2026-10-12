@@ -1,6 +1,25 @@
 {
   "chats": [
     {
+      "id": 3,
+      "mode": "spelling",
+      "title": "duddid",
+      "messages": [
+        {
+          "role": "user",
+          "text": "duddid",
+          "time": "2026-10-12T20:09:05.526Z"
+        },
+        {
+          "role": "ai",
+          "text": "Ошибка: GEMINI_API_KEY is not defined",
+          "time": "2026-10-12T20:09:05.732Z"
+        }
+      ],
+      "created_at": "2026-10-12T20:09:03.677Z",
+      "updated_at": "2026-10-12T20:09:05.526Z"
+    },
+    {
       "id": 2,
       "mode": "parsing",
       "title": "дадаадда",
