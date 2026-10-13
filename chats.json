@@ -2,7 +2,7 @@
   "chats": [
     {
       "id": 2,
-      "mode": "chemistry",
+      "mode": "spelling",
       "title": "Разложение H2O",
       "messages": [
         {
@@ -17,7 +17,7 @@
         }
       ],
       "created_at": "2026-10-13T04:37:56.787Z",
-      "updated_at": "2026-10-13T04:38:05.020Z"
+      "updated_at": "2026-10-13T04:38:25.425Z"
     },
     {
       "id": 1,
