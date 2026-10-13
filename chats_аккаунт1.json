@@ -1,3 +1,12 @@
 {
-  "chats": []
+  "chats": [
+    {
+      "id": 1,
+      "mode": "no_prompt",
+      "title": "Новый чат",
+      "messages": [],
+      "created_at": "2026-10-13T18:18:24.338Z",
+      "updated_at": "2026-10-13T18:18:24.961Z"
+    }
+  ]
 }
