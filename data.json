@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-15T21:07:09+03:00",
+  "last_updated": "2026-10-15T21:12:10+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
       "requests": 77,
-      "last_message": "2026-10-15T20:45:56+03:00"
+      "last_message": "2026-10-15T21:07:19+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -2068,6 +2068,38 @@
       "first_name": "missed",
       "text": "10 6",
       "time": "2026-10-15T20:45:56+03:00"
+    },
+    {
+      "id": 220,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Физика",
+      "time": "2026-10-15T21:07:12+03:00"
+    },
+    {
+      "id": 221,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "⬅️ Назад",
+      "time": "2026-10-15T21:07:16+03:00"
+    },
+    {
+      "id": 222,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "📚 ГДЗ",
+      "time": "2026-10-15T21:07:17+03:00"
+    },
+    {
+      "id": 223,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Геометрия",
+      "time": "2026-10-15T21:07:19+03:00"
     }
   ],
   "admins": [
