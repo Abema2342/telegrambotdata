@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T20:13:21+03:00",
+  "last_updated": "2026-10-15T20:18:23+03:00",
   "users": {
     "6706322460": {
       "username": "",
@@ -12,8 +12,8 @@
       "username": "Xyalani_kinn",
       "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
       "banned": false,
-      "requests": 53,
-      "last_message": "2026-10-13T22:38:48+03:00"
+      "requests": 54,
+      "last_message": "2026-10-15T20:17:23+03:00"
     },
     "5225285541": {
       "username": "",
@@ -1964,6 +1964,22 @@
       "first_name": "missed",
       "text": "Русский",
       "time": "2026-10-15T17:47:30+03:00"
+    },
+    {
+      "id": 207,
+      "user_id": 5621097782,
+      "username": "Xyalani_kinn",
+      "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
+      "text": "Химия",
+      "time": "2026-10-15T20:17:11+03:00"
+    },
+    {
+      "id": 208,
+      "user_id": 5621097782,
+      "username": "Xyalani_kinn",
+      "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
+      "text": "10 3",
+      "time": "2026-10-15T20:17:23+03:00"
     }
   ],
   "admins": [
