@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-15T20:43:32+03:00",
+  "last_updated": "2026-10-15T20:48:33+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
-      "requests": 75,
-      "last_message": "2026-10-15T20:42:07+03:00"
+      "requests": 77,
+      "last_message": "2026-10-15T20:45:56+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -2036,6 +2036,38 @@
       "first_name": "missed",
       "text": "10 3",
       "time": "2026-10-15T20:42:07+03:00"
+    },
+    {
+      "id": 216,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Геометрия",
+      "time": "2026-10-15T20:45:07+03:00"
+    },
+    {
+      "id": 217,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "2 4",
+      "time": "2026-10-15T20:45:09+03:00"
+    },
+    {
+      "id": 218,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Химия",
+      "time": "2026-10-15T20:45:51+03:00"
+    },
+    {
+      "id": 219,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "10 6",
+      "time": "2026-10-15T20:45:56+03:00"
     }
   ],
   "admins": [
