@@ -70,6 +70,12 @@
       "name": "Химия",
       "is_chemistry": true,
       "sections": []
+    },
+    {
+      "id": null,
+      "name": "Русская литература",
+      "is_chemistry": false,
+      "sections": []
     }
   ]
 }
