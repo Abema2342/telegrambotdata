@@ -359,10 +359,10 @@
       "id": 43,
       "title": "Мини-игры",
       "text": "Будут мини-игры чтобы скоротать время",
-      "status": "not_done",
+      "status": "in_progress",
       "category": "site",
       "created_at": "2026-10-19T15:03:50.868Z",
-      "last_modified": "2026-10-19T15:03:50.868Z",
+      "last_modified": "2026-10-19T15:15:21.137Z",
       "completed_at": null
     }
   ]
