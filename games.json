@@ -1,7 +1,7 @@
 {
   "math_time": 10000,
-  "spam_time": 5000,
-  "simon_time": 5000,
-  "memory_time": 20000,
-  "wire_time": 25000
+  "spam_time": 10000,
+  "simon_time": 10000,
+  "memory_time": 10000,
+  "wire_time": 10000
 }
