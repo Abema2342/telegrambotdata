@@ -1,13 +1,3 @@
 {
-  "sets": [
-    {
-      "id": 1,
-      "name": "космика",
-      "items": [
-        "knife-cosmic-karambit",
-        "revolver-cosmic-sight",
-        "revolver-railgun-z1"
-      ]
-    }
-  ]
+  "sets": []
 }
