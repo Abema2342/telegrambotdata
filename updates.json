@@ -369,11 +369,11 @@
       "id": 44,
       "title": "Переделка мини игр",
       "text": "Удаление проводов, добавление новых банок.",
-      "status": "not_done",
+      "status": "done",
       "category": "site",
       "created_at": "2026-10-23T17:16:17.211Z",
-      "last_modified": "2026-10-23T18:36:04.471Z",
-      "completed_at": null
+      "last_modified": "2026-10-23T18:36:06.400Z",
+      "completed_at": "2026-10-23T18:36:06.400Z"
     }
   ]
 }
