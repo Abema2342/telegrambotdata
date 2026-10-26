@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26T13:01:56+03:00",
+  "last_updated": "2026-10-26T13:06:57+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
-      "requests": 79,
-      "last_message": "2026-10-21T13:36:26+03:00"
+      "requests": 82,
+      "last_message": "2026-10-26T13:05:30+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -2196,6 +2196,70 @@
       "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
       "text": "200",
       "time": "2026-10-25T11:03:46+03:00"
+    },
+    {
+      "id": 236,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Физика",
+      "time": "2026-10-26T13:04:43+03:00"
+    },
+    {
+      "id": 237,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Английский",
+      "time": "2026-10-26T13:04:43+03:00"
+    },
+    {
+      "id": 238,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "⬅️ Назад",
+      "time": "2026-10-26T13:04:49+03:00"
+    },
+    {
+      "id": 239,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "📚 ГДЗ",
+      "time": "2026-10-26T13:04:50+03:00"
+    },
+    {
+      "id": 240,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "Английский",
+      "time": "2026-10-26T13:04:51+03:00"
+    },
+    {
+      "id": 241,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "61",
+      "time": "2026-10-26T13:04:59+03:00"
+    },
+    {
+      "id": 242,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "62",
+      "time": "2026-10-26T13:05:29+03:00"
+    },
+    {
+      "id": 243,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "60",
+      "time": "2026-10-26T13:05:30+03:00"
     }
   ],
   "admins": [
