@@ -1,0 +1,19 @@
+{
+  "books": [
+    { "id": 1,  "subject": "Алгебра", "class": "9", "title": "Алгебра 9 класс (Арефьева)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/matematika/Algebra_Arefieva_9kl_rus_2019.pdf" },
+    { "id": 2,  "subject": "Русский язык", "class": "9", "title": "Русский язык 9 класс", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/matematika/Algebra_Arefieva_9kl_rus_2019.pdf" },
+    { "id": 3,  "subject": "Русская литература", "class": "9", "title": "Русская литература 9 класс (Захарова)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/russkaya-literatura/rus_lit_Zaharova_9kl_rus_bel_2019.pdf" },
+    { "id": 4,  "subject": "Физика", "class": "9", "title": "Физика 9 класс (Исаченкова)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/fizika/Fizika_Isachenkova_9_rus_2019.pdf" },
+    { "id": 5,  "subject": "Химия", "class": "9", "title": "Химия 9 класс (Шиманович)", "url": "https://e-padruchnik.adu.by/books/himija/Himiya_Shimanovich_9kl_rus_2025.pdf" },
+    { "id": 6,  "subject": "География", "class": "9", "title": "География 9 класс (Брилевский)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/geografija/Geografiya_9kl_Brilevski_rus_2025.pdf" },
+    { "id": 7,  "subject": "Обществоведение", "class": "9", "title": "Обществоведение 9 класс (Данилов)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/obschestvovedenie/Obschestvovedenie_Danilov_9kl_rus.pdf" },
+    { "id": 8,  "subject": "Биология", "class": "9", "title": "Биология 9 класс (Борисов)", "url": "https://e-padruchnik.adu.by/books/biologija/Biologiya_Borisov_9kl_rus_2025.pdf" },
+    { "id": 9,  "subject": "История нового времени", "class": "9", "title": "История нового времени 9 класс (Кошелев)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/istorija/vs_ist_noveishego_vremeni_Koshelev_9kl_2019.pdf" },
+    { "id": 10, "subject": "Информатика", "class": "9", "title": "Информатика 9 класс (Котов)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/informatika/informatika_9kl_Kotov_rus_2019.pdf" },
+    { "id": 11, "subject": "Английский язык", "class": "9", "title": "Английский язык 9 класс", "url": "https://e-aversev.by/viewerw.html?edata=5215#&edata=5215" },
+    { "id": 12, "subject": "История Беларуси", "class": "9", "title": "История Беларуси 9 класс (Панов)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/istorija/Ist_Bel_1917_nXXI_9k_Panov_rus_2019.pdf" },
+    { "id": 13, "subject": "Белорусский язык", "class": "9", "title": "Беларуская мова 9 клас (Валочка)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/belaruskaja-mova/Bel_mova_Valochka_9kl_2025.pdf" },
+    { "id": 14, "subject": "Белорусская литература", "class": "9", "title": "Беларуская літаратура 9 клас (Рагойша)", "url": "https://e-padruchnik.adu.by/book-viewer/web/viewer.html?file=https://e-padruchnik.adu.by/books/belaruskaja-litaratura/bel-lit-ragojsha-9kl-bel-rus-2019.pdf" },
+    { "id": 15, "subject": "Геометрия", "class": "9", "title": "Геометрия 9 класс (Казаков)", "url": "https://e-padruchnik.adu.by/books/matematika/Ge%D0%BEmetriya_Kazakoy_9kl_rus_2025.pdf" }
+  ]
+}
