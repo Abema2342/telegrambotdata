@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-29T09:32:35+03:00",
+  "last_updated": "2026-10-29T09:37:37+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
-      "requests": 83,
-      "last_message": "2026-10-29T09:27:42+03:00"
+      "requests": 84,
+      "last_message": "2026-10-29T09:33:08+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -2284,6 +2284,14 @@
       "first_name": "missed",
       "text": "44",
       "time": "2026-10-29T09:27:42+03:00"
+    },
+    {
+      "id": 247,
+      "user_id": 6706322460,
+      "username": "",
+      "first_name": "missed",
+      "text": "45",
+      "time": "2026-10-29T09:33:08+03:00"
     }
   ],
   "admins": [
