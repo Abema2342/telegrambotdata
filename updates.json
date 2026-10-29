@@ -399,11 +399,11 @@
       "id": 47,
       "title": "Учебники на сайте",
       "text": "Вкладка \"учебники\" с предметами 9 класса.",
-      "status": "in_progress",
+      "status": "done",
       "category": "site",
       "created_at": "2026-10-28T18:53:18.817Z",
-      "last_modified": "2026-10-28T18:53:18.817Z",
-      "completed_at": null
+      "last_modified": "2026-10-29T16:09:43.266Z",
+      "completed_at": "2026-10-29T16:09:43.266Z"
     }
   ]
 }
