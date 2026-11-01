@@ -162,7 +162,7 @@
     },
     {
       "item": "knife-lightning",
-      "finisher": null
+      "finisher": "finisher-lightning-strike"
     },
     {
       "item": "revolver-lightning",
