@@ -150,7 +150,7 @@
     },
     {
       "item": "knife-beta-energy-blade",
-      "finisher": null
+      "finisher": "finisher-beta-energy-overcharge"
     },
     {
       "item": "revolver-liberty-s-justice",
