@@ -170,7 +170,7 @@
     },
     {
       "item": "revolver-heart-keeper",
-      "finisher": null
+      "finisher": "finisher-beloved"
     },
     {
       "item": "finisher-heartbreak",
