@@ -130,7 +130,7 @@
     },
     {
       "item": "revolver-silencer",
-      "finisher": null
+      "finisher": "finisher-kanji"
     },
     {
       "item": "revolver-deathspeaker",
