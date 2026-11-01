@@ -82,7 +82,7 @@
     },
     {
       "item": "revolver-mermaid",
-      "finisher": null
+      "finisher": "finisher-pearl-chomp"
     },
     {
       "item": "finisher-negative-midnight-flame",
