@@ -118,7 +118,7 @@
     },
     {
       "item": "knife-poseidon",
-      "finisher": null
+      "finisher": "finisher-water-spout"
     },
     {
       "item": "knife-saber",
