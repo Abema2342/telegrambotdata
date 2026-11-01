@@ -226,7 +226,7 @@
     },
     {
       "item": "revolver-purple-infector",
-      "finisher": null
+      "finisher": "finisher-purplify"
     },
     {
       "item": "revolver-solaris",
