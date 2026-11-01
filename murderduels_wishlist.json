@@ -18,7 +18,7 @@
     },
     {
       "item": "revolver-murder-note",
-      "finisher": "finisher-negative-midnight-flame"
+      "finisher": null
     },
     {
       "item": "knife-infernum",
