@@ -1,3 +1,13 @@
 {
-  "sets": []
+  "sets": [
+    {
+      "id": 1,
+      "name": "пкупукавпук",
+      "items": [
+        "knife-mono-saber",
+        "finisher-omega-energy-overcharge",
+        null
+      ]
+    }
+  ]
 }
