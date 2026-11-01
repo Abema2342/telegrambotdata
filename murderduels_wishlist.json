@@ -1,67 +1,256 @@
 {
   "items": [
-    "knife-chroma-katana",
-    "knife-negative-midnight-katana",
-    "knife-midnight-katana",
-    "revolver-chroma-sniper",
-    "revolver-murder-note",
-    "knife-infernum",
-    "revolver-infernum",
-    "revolver-seraphim",
-    "knife-seraphim",
-    "revolver-spider-bow",
-    "knife-lmad-lmadnew",
-    "knife-enchantress-gothic-scythe",
-    "revolver-negative-midnight-crossbow",
-    "knife-sanguine-gothic-scythe",
-    "revolver-golden-luger",
-    "knife-golden-stiletto",
-    "revolver-voidcaster",
-    "knife-voidreaver",
-    "knife-heart-stealer",
-    "revolver-heart-stealer",
-    "revolver-mermaid",
-    "finisher-negative-midnight-flame",
-    "revolver-megalodon",
-    "knife-megalodon",
-    "knife-deathspeaker",
-    "revolver-midnight-crossbow",
-    "knife-mermaid",
-    "finisher-goldify",
-    "knife-devil-s-trident",
-    "knife-poseidon",
-    "knife-saber",
-    "finisher-pearl-chomp",
-    "revolver-silencer",
-    "revolver-deathspeaker",
-    "finisher-shark-attack",
-    "knife-alpha-energy-blade",
-    "knife-gamma-energy-blade",
-    "knife-beta-energy-blade",
-    "revolver-liberty-s-justice",
-    "knife-kunai",
-    "knife-lightning",
-    "revolver-lightning",
-    "revolver-heart-keeper",
-    "finisher-heartbreak",
-    "knife-heart-keeper",
-    "finisher-kanji",
-    "revolver-triton",
-    "knife-liberty-s-edge",
-    "finisher-beta-energy-overcharge",
-    "finisher-midnight-flame",
-    "finisher-alpha-energy-overcharge",
-    "finisher-gamma-energy-overcharge",
-    "revolver-poltergeist",
-    "finisher-eagle",
-    "finisher-beloved",
-    "revolver-jester",
-    "revolver-purple-infector",
-    "revolver-solaris",
-    "knife-lunaris",
-    "finisher-purple-outbreak",
-    "knife-kitchen-knife",
-    "knife-jester",
-    "revolver-infector"
+    {
+      "item": "knife-chroma-katana",
+      "finisher": null
+    },
+    {
+      "item": "knife-negative-midnight-katana",
+      "finisher": null
+    },
+    {
+      "item": "knife-midnight-katana",
+      "finisher": null
+    },
+    {
+      "item": "revolver-chroma-sniper",
+      "finisher": null
+    },
+    {
+      "item": "revolver-murder-note",
+      "finisher": "finisher-negative-midnight-flame"
+    },
+    {
+      "item": "knife-infernum",
+      "finisher": null
+    },
+    {
+      "item": "revolver-infernum",
+      "finisher": null
+    },
+    {
+      "item": "revolver-seraphim",
+      "finisher": null
+    },
+    {
+      "item": "knife-seraphim",
+      "finisher": null
+    },
+    {
+      "item": "revolver-spider-bow",
+      "finisher": null
+    },
+    {
+      "item": "knife-lmad-lmadnew",
+      "finisher": null
+    },
+    {
+      "item": "knife-enchantress-gothic-scythe",
+      "finisher": null
+    },
+    {
+      "item": "revolver-negative-midnight-crossbow",
+      "finisher": null
+    },
+    {
+      "item": "knife-sanguine-gothic-scythe",
+      "finisher": null
+    },
+    {
+      "item": "revolver-golden-luger",
+      "finisher": null
+    },
+    {
+      "item": "knife-golden-stiletto",
+      "finisher": null
+    },
+    {
+      "item": "revolver-voidcaster",
+      "finisher": null
+    },
+    {
+      "item": "knife-voidreaver",
+      "finisher": null
+    },
+    {
+      "item": "knife-heart-stealer",
+      "finisher": null
+    },
+    {
+      "item": "revolver-heart-stealer",
+      "finisher": null
+    },
+    {
+      "item": "revolver-mermaid",
+      "finisher": null
+    },
+    {
+      "item": "finisher-negative-midnight-flame",
+      "finisher": null
+    },
+    {
+      "item": "revolver-megalodon",
+      "finisher": null
+    },
+    {
+      "item": "knife-megalodon",
+      "finisher": null
+    },
+    {
+      "item": "knife-deathspeaker",
+      "finisher": null
+    },
+    {
+      "item": "revolver-midnight-crossbow",
+      "finisher": null
+    },
+    {
+      "item": "knife-mermaid",
+      "finisher": null
+    },
+    {
+      "item": "finisher-goldify",
+      "finisher": null
+    },
+    {
+      "item": "knife-devil-s-trident",
+      "finisher": null
+    },
+    {
+      "item": "knife-poseidon",
+      "finisher": null
+    },
+    {
+      "item": "knife-saber",
+      "finisher": null
+    },
+    {
+      "item": "finisher-pearl-chomp",
+      "finisher": null
+    },
+    {
+      "item": "revolver-silencer",
+      "finisher": null
+    },
+    {
+      "item": "revolver-deathspeaker",
+      "finisher": null
+    },
+    {
+      "item": "finisher-shark-attack",
+      "finisher": null
+    },
+    {
+      "item": "knife-alpha-energy-blade",
+      "finisher": null
+    },
+    {
+      "item": "knife-gamma-energy-blade",
+      "finisher": null
+    },
+    {
+      "item": "knife-beta-energy-blade",
+      "finisher": null
+    },
+    {
+      "item": "revolver-liberty-s-justice",
+      "finisher": null
+    },
+    {
+      "item": "knife-kunai",
+      "finisher": null
+    },
+    {
+      "item": "knife-lightning",
+      "finisher": null
+    },
+    {
+      "item": "revolver-lightning",
+      "finisher": null
+    },
+    {
+      "item": "revolver-heart-keeper",
+      "finisher": null
+    },
+    {
+      "item": "finisher-heartbreak",
+      "finisher": null
+    },
+    {
+      "item": "knife-heart-keeper",
+      "finisher": null
+    },
+    {
+      "item": "finisher-kanji",
+      "finisher": null
+    },
+    {
+      "item": "revolver-triton",
+      "finisher": null
+    },
+    {
+      "item": "knife-liberty-s-edge",
+      "finisher": null
+    },
+    {
+      "item": "finisher-beta-energy-overcharge",
+      "finisher": null
+    },
+    {
+      "item": "finisher-midnight-flame",
+      "finisher": null
+    },
+    {
+      "item": "finisher-alpha-energy-overcharge",
+      "finisher": null
+    },
+    {
+      "item": "finisher-gamma-energy-overcharge",
+      "finisher": null
+    },
+    {
+      "item": "revolver-poltergeist",
+      "finisher": null
+    },
+    {
+      "item": "finisher-eagle",
+      "finisher": null
+    },
+    {
+      "item": "finisher-beloved",
+      "finisher": null
+    },
+    {
+      "item": "revolver-jester",
+      "finisher": null
+    },
+    {
+      "item": "revolver-purple-infector",
+      "finisher": null
+    },
+    {
+      "item": "revolver-solaris",
+      "finisher": null
+    },
+    {
+      "item": "knife-lunaris",
+      "finisher": null
+    },
+    {
+      "item": "finisher-purple-outbreak",
+      "finisher": null
+    },
+    {
+      "item": "knife-kitchen-knife",
+      "finisher": null
+    },
+    {
+      "item": "knife-jester",
+      "finisher": null
+    },
+    {
+      "item": "revolver-infector",
+      "finisher": null
+    }
   ]
 }
