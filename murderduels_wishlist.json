@@ -178,7 +178,7 @@
     },
     {
       "item": "knife-heart-keeper",
-      "finisher": null
+      "finisher": "finisher-beloved"
     },
     {
       "item": "finisher-kanji",
