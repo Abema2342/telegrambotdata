@@ -58,7 +58,7 @@
     },
     {
       "item": "revolver-golden-luger",
-      "finisher": "finisher-goldify"
+      "finisher": null
     },
     {
       "item": "knife-golden-stiletto",
