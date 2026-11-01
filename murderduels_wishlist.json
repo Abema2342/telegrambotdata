@@ -2,7 +2,7 @@
   "items": [
     {
       "item": "knife-chroma-katana",
-      "finisher": null
+      "finisher": "finisher-time-stop"
     },
     {
       "item": "knife-negative-midnight-katana",
