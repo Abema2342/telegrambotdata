@@ -94,7 +94,7 @@
     },
     {
       "item": "knife-megalodon",
-      "finisher": null
+      "finisher": "finisher-shark-attack"
     },
     {
       "item": "knife-deathspeaker",
