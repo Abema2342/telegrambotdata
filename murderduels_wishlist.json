@@ -2,247 +2,313 @@
   "items": [
     {
       "item": "knife-chroma-katana",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-negative-midnight-katana",
-      "finisher": "finisher-negative-midnight-flame"
+      "finisher": "finisher-negative-midnight-flame",
+      "quantity": 1
     },
     {
       "item": "knife-midnight-katana",
-      "finisher": "finisher-midnight-flame"
+      "finisher": "finisher-midnight-flame",
+      "quantity": 1
     },
     {
       "item": "revolver-chroma-sniper",
-      "finisher": "finisher-chroma-pillar"
+      "finisher": "finisher-chroma-pillar",
+      "quantity": 1
     },
     {
       "item": "revolver-murder-note",
-      "finisher": "finisher-dark-fate"
+      "finisher": "finisher-dark-fate",
+      "quantity": 1
     },
     {
       "item": "knife-infernum",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-infernum",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-seraphim",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-seraphim",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-spider-bow",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-lmad-lmadnew",
-      "finisher": "finisher-goldify"
+      "finisher": "finisher-goldify",
+      "quantity": 1
     },
     {
       "item": "knife-enchantress-gothic-scythe",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-negative-midnight-crossbow",
-      "finisher": "finisher-negative-midnight-flame"
+      "finisher": "finisher-negative-midnight-flame",
+      "quantity": 1
     },
     {
       "item": "knife-sanguine-gothic-scythe",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-golden-luger",
-      "finisher": "finisher-goldify"
+      "finisher": "finisher-goldify",
+      "quantity": 1
     },
     {
       "item": "knife-golden-stiletto",
-      "finisher": "finisher-goldify"
+      "finisher": "finisher-goldify",
+      "quantity": 1
     },
     {
       "item": "revolver-voidcaster",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-voidreaver",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-heart-stealer",
-      "finisher": "finisher-heartbreak"
+      "finisher": "finisher-heartbreak",
+      "quantity": 1
     },
     {
       "item": "revolver-heart-stealer",
-      "finisher": "finisher-heartbreak"
+      "finisher": "finisher-heartbreak",
+      "quantity": 1
     },
     {
       "item": "revolver-mermaid",
-      "finisher": "finisher-pearl-chomp"
+      "finisher": "finisher-pearl-chomp",
+      "quantity": 1
     },
     {
       "item": "finisher-negative-midnight-flame",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-megalodon",
-      "finisher": "finisher-shark-attack"
+      "finisher": "finisher-shark-attack",
+      "quantity": 1
     },
     {
       "item": "knife-megalodon",
-      "finisher": "finisher-shark-attack"
+      "finisher": "finisher-shark-attack",
+      "quantity": 1
     },
     {
       "item": "knife-deathspeaker",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-midnight-crossbow",
-      "finisher": "finisher-midnight-flame"
+      "finisher": "finisher-midnight-flame",
+      "quantity": 1
     },
     {
       "item": "knife-mermaid",
-      "finisher": "finisher-pearl-chomp"
+      "finisher": "finisher-pearl-chomp",
+      "quantity": 1
     },
     {
       "item": "finisher-goldify",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-devil-s-trident",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-poseidon",
-      "finisher": "finisher-water-spout"
+      "finisher": "finisher-water-spout",
+      "quantity": 1
     },
     {
       "item": "knife-saber",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-pearl-chomp",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-silencer",
-      "finisher": "finisher-kanji"
+      "finisher": "finisher-kanji",
+      "quantity": 1
     },
     {
       "item": "revolver-deathspeaker",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-shark-attack",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-alpha-energy-blade",
-      "finisher": "finisher-alpha-energy-overcharge"
+      "finisher": "finisher-alpha-energy-overcharge",
+      "quantity": 1
     },
     {
       "item": "knife-gamma-energy-blade",
-      "finisher": "finisher-gamma-energy-overcharge"
+      "finisher": "finisher-gamma-energy-overcharge",
+      "quantity": 1
     },
     {
       "item": "knife-beta-energy-blade",
-      "finisher": "finisher-beta-energy-overcharge"
+      "finisher": "finisher-beta-energy-overcharge",
+      "quantity": 1
     },
     {
       "item": "revolver-liberty-s-justice",
-      "finisher": "finisher-eagle"
+      "finisher": "finisher-eagle",
+      "quantity": 1
     },
     {
       "item": "knife-kunai",
-      "finisher": "finisher-kanji"
+      "finisher": "finisher-kanji",
+      "quantity": 1
     },
     {
       "item": "knife-lightning",
-      "finisher": "finisher-lightning-strike"
+      "finisher": "finisher-lightning-strike",
+      "quantity": 1
     },
     {
       "item": "revolver-lightning",
-      "finisher": "finisher-lightning-strike"
+      "finisher": "finisher-lightning-strike",
+      "quantity": 1
     },
     {
       "item": "revolver-heart-keeper",
-      "finisher": "finisher-beloved"
+      "finisher": "finisher-beloved",
+      "quantity": 1
     },
     {
       "item": "finisher-heartbreak",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-heart-keeper",
-      "finisher": "finisher-beloved"
+      "finisher": "finisher-beloved",
+      "quantity": 1
     },
     {
       "item": "finisher-kanji",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-triton",
-      "finisher": "finisher-water-spout"
+      "finisher": "finisher-water-spout",
+      "quantity": 1
     },
     {
       "item": "knife-liberty-s-edge",
-      "finisher": "finisher-eagle"
+      "finisher": "finisher-eagle",
+      "quantity": 1
     },
     {
       "item": "finisher-beta-energy-overcharge",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-midnight-flame",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-alpha-energy-overcharge",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-gamma-energy-overcharge",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-poltergeist",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-eagle",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "finisher-beloved",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-jester",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-purple-infector",
-      "finisher": "finisher-purplify"
+      "finisher": "finisher-purplify",
+      "quantity": 1
     },
     {
       "item": "finisher-purple-outbreak",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "knife-kitchen-knife",
-      "finisher": "finisher-chroma-blitz"
+      "finisher": "finisher-chroma-blitz",
+      "quantity": 1
     },
     {
       "item": "knife-jester",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
     },
     {
       "item": "revolver-infector",
-      "finisher": null
+      "finisher": null,
+      "quantity": 1
+    },
+    {
+      "item": "knife-hacker",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
