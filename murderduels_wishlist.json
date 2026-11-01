@@ -158,7 +158,7 @@
     },
     {
       "item": "knife-kunai",
-      "finisher": null
+      "finisher": "finisher-kanji"
     },
     {
       "item": "knife-lightning",
