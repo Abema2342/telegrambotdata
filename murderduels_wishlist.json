@@ -142,7 +142,7 @@
     },
     {
       "item": "knife-alpha-energy-blade",
-      "finisher": null
+      "finisher": "finisher-alpha-energy-overcharge"
     },
     {
       "item": "knife-gamma-energy-blade",
