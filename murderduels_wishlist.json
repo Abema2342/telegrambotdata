@@ -102,7 +102,7 @@
     },
     {
       "item": "revolver-midnight-crossbow",
-      "finisher": null
+      "finisher": "finisher-midnight-flame"
     },
     {
       "item": "knife-mermaid",
