@@ -154,7 +154,7 @@
     },
     {
       "item": "revolver-liberty-s-justice",
-      "finisher": null
+      "finisher": "finisher-goldify"
     },
     {
       "item": "knife-kunai",
