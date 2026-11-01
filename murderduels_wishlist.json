@@ -186,7 +186,7 @@
     },
     {
       "item": "revolver-triton",
-      "finisher": null
+      "finisher": "finisher-water-spout"
     },
     {
       "item": "knife-liberty-s-edge",
