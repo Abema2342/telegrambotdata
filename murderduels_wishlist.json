@@ -14,7 +14,7 @@
     },
     {
       "item": "revolver-chroma-sniper",
-      "finisher": null
+      "finisher": "finisher-chroma-pillar"
     },
     {
       "item": "revolver-murder-note",
