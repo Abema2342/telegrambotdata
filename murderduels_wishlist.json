@@ -42,7 +42,7 @@
     },
     {
       "item": "knife-lmad-lmadnew",
-      "finisher": null
+      "finisher": "finisher-goldify"
     },
     {
       "item": "knife-enchantress-gothic-scythe",
