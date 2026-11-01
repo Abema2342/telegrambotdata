@@ -90,7 +90,7 @@
     },
     {
       "item": "revolver-megalodon",
-      "finisher": null
+      "finisher": "finisher-shark-attack"
     },
     {
       "item": "knife-megalodon",
