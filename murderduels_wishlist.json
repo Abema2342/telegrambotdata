@@ -166,7 +166,7 @@
     },
     {
       "item": "revolver-lightning",
-      "finisher": null
+      "finisher": "finisher-lightning-strike"
     },
     {
       "item": "revolver-heart-keeper",
