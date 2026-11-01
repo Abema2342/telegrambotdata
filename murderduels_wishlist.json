@@ -234,7 +234,7 @@
     },
     {
       "item": "knife-kitchen-knife",
-      "finisher": null
+      "finisher": "finisher-chroma-blitz"
     },
     {
       "item": "knife-jester",
