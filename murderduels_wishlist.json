@@ -62,7 +62,7 @@
     },
     {
       "item": "knife-golden-stiletto",
-      "finisher": "finisher-goldify"
+      "finisher": null
     },
     {
       "item": "revolver-voidcaster",
