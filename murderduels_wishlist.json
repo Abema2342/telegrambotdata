@@ -78,7 +78,7 @@
     },
     {
       "item": "revolver-heart-stealer",
-      "finisher": null
+      "finisher": "finisher-heartbreak"
     },
     {
       "item": "revolver-mermaid",
