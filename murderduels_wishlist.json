@@ -146,7 +146,7 @@
     },
     {
       "item": "knife-gamma-energy-blade",
-      "finisher": null
+      "finisher": "finisher-gamma-energy-overcharge"
     },
     {
       "item": "knife-beta-energy-blade",
