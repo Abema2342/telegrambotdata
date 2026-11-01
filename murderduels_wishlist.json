@@ -10,7 +10,7 @@
     },
     {
       "item": "knife-midnight-katana",
-      "finisher": null
+      "finisher": "finisher-midnight-flame"
     },
     {
       "item": "revolver-chroma-sniper",
