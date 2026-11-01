@@ -106,7 +106,7 @@
     },
     {
       "item": "knife-mermaid",
-      "finisher": null
+      "finisher": "finisher-pearl-chomp"
     },
     {
       "item": "finisher-goldify",
