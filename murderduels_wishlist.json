@@ -304,6 +304,11 @@
       "item": "revolver-infector",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "knife-duel-ball",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
