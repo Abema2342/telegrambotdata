@@ -152,7 +152,7 @@
     },
     {
       "item": "knife-saber",
-      "finisher": null,
+      "finisher": "finisher-time-stop",
       "quantity": 1
     },
     {
