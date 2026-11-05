@@ -302,7 +302,7 @@
     },
     {
       "item": "revolver-infector",
-      "finisher": null,
+      "finisher": "finisher-outbreak",
       "quantity": 1
     },
     {
