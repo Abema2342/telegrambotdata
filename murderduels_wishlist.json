@@ -67,7 +67,7 @@
     },
     {
       "item": "knife-sanguine-gothic-scythe",
-      "finisher": "finisher-bat-storm",
+      "finisher": null,
       "quantity": 1
     },
     {
