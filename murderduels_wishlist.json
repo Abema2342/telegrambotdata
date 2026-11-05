@@ -319,6 +319,11 @@
       "item": "revolver-firework",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "revolver-riddling-revolver",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
