@@ -32,7 +32,7 @@
     },
     {
       "item": "revolver-infernum",
-      "finisher": "finisher-bat-storm",
+      "finisher": null,
       "quantity": 1
     },
     {
