@@ -329,6 +329,11 @@
       "item": "finisher-chroma-pillar",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "finisher-bear-attack",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
