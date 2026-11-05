@@ -47,7 +47,7 @@
     },
     {
       "item": "revolver-spider-bow",
-      "finisher": null,
+      "finisher": "finisher-negative-midnight-flame",
       "quantity": 1
     },
     {
