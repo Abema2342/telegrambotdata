@@ -332,7 +332,7 @@
     },
     {
       "item": "knife-spider-knife",
-      "finisher": null,
+      "finisher": "finisher-negative-midnight-flame",
       "quantity": 1
     }
   ]
