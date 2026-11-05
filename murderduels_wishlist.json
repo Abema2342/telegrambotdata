@@ -57,7 +57,7 @@
     },
     {
       "item": "knife-enchantress-gothic-scythe",
-      "finisher": null,
+      "finisher": "finisher-star-fall",
       "quantity": 2
     },
     {
