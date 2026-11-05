@@ -322,7 +322,7 @@
     },
     {
       "item": "revolver-riddling-revolver",
-      "finisher": null,
+      "finisher": "finisher-goldify",
       "quantity": 1
     },
     {
