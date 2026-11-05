@@ -297,7 +297,7 @@
     },
     {
       "item": "knife-jester",
-      "finisher": null,
+      "finisher": "finisher-confetti",
       "quantity": 1
     },
     {
