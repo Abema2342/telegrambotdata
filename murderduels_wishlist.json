@@ -37,7 +37,7 @@
     },
     {
       "item": "revolver-seraphim",
-      "finisher": null,
+      "finisher": "finisher-chroma-blitz",
       "quantity": 1
     },
     {
