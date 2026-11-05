@@ -262,7 +262,7 @@
     },
     {
       "item": "revolver-poltergeist",
-      "finisher": null,
+      "finisher": "finisher-zombify",
       "quantity": 1
     },
     {
