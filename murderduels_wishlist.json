@@ -82,7 +82,7 @@
     },
     {
       "item": "revolver-voidcaster",
-      "finisher": null,
+      "finisher": "finisher-time-stop",
       "quantity": 1
     },
     {
