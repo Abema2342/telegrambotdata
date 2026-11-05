@@ -309,6 +309,11 @@
       "item": "knife-duel-ball",
       "finisher": "finisher-steel-barrage",
       "quantity": 1
+    },
+    {
+      "item": "knife-firework",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
