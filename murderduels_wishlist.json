@@ -167,7 +167,7 @@
     },
     {
       "item": "revolver-deathspeaker",
-      "finisher": null,
+      "finisher": "finisher-midnight-flame",
       "quantity": 1
     },
     {
