@@ -311,11 +311,6 @@
       "quantity": 1
     },
     {
-      "item": "knife-firework",
-      "finisher": null,
-      "quantity": 1
-    },
-    {
       "item": "revolver-riddling-revolver",
       "finisher": "finisher-goldify",
       "quantity": 1
