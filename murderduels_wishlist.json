@@ -2,7 +2,7 @@
   "items": [
     {
       "item": "knife-chroma-katana",
-      "finisher": null,
+      "finisher": "finisher-chroma-blitz",
       "quantity": 1
     },
     {
