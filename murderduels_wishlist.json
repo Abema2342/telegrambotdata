@@ -27,7 +27,7 @@
     },
     {
       "item": "knife-infernum",
-      "finisher": null,
+      "finisher": "finisher-bat-burst",
       "quantity": 1
     },
     {
