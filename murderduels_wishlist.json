@@ -329,6 +329,11 @@
       "item": "knife-riddling-daggers",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "knife-spider-knife",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
