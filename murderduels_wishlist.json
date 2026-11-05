@@ -42,7 +42,7 @@
     },
     {
       "item": "knife-seraphim",
-      "finisher": null,
+      "finisher": "finisher-chroma-blitz",
       "quantity": 1
     },
     {
