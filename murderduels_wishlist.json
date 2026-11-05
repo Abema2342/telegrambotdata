@@ -327,7 +327,7 @@
     },
     {
       "item": "knife-riddling-daggers",
-      "finisher": null,
+      "finisher": "finisher-goldify",
       "quantity": 1
     },
     {
