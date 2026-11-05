@@ -324,6 +324,11 @@
       "item": "knife-spider-knife",
       "finisher": "finisher-negative-midnight-flame",
       "quantity": 1
+    },
+    {
+      "item": "finisher-chroma-pillar",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
