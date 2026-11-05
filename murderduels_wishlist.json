@@ -87,7 +87,7 @@
     },
     {
       "item": "knife-voidreaver",
-      "finisher": null,
+      "finisher": "finisher-time-stop",
       "quantity": 1
     },
     {
