@@ -324,6 +324,11 @@
       "item": "revolver-riddling-revolver",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "knife-riddling-daggers",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
