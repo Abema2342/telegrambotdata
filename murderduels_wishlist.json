@@ -334,6 +334,11 @@
       "item": "finisher-chroma-blitz",
       "finisher": null,
       "quantity": 3
+    },
+    {
+      "item": "finisher-bat-storm",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
