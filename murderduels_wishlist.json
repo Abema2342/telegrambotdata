@@ -344,6 +344,11 @@
       "item": "finisher-star-fall",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "finisher-time-stop",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
