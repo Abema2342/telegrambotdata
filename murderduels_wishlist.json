@@ -339,6 +339,11 @@
       "item": "finisher-bat-storm",
       "finisher": null,
       "quantity": 4
+    },
+    {
+      "item": "finisher-star-fall",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
