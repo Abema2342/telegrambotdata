@@ -142,7 +142,7 @@
     },
     {
       "item": "knife-devil-s-trident",
-      "finisher": null,
+      "finisher": "finisher-bat-storm",
       "quantity": 1
     },
     {
