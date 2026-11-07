@@ -359,6 +359,11 @@
       "item": "finisher-water-spout",
       "finisher": null,
       "quantity": 2
+    },
+    {
+      "item": "finisher-lightning-strike",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
