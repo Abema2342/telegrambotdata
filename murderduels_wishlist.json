@@ -369,6 +369,11 @@
       "item": "finisher-confetti",
       "finisher": null,
       "quantity": 2
+    },
+    {
+      "item": "finisher-zombify",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
