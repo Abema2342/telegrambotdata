@@ -354,6 +354,11 @@
       "item": "knife-ghostwalker",
       "finisher": "finisher-ghostwalker",
       "quantity": 1
+    },
+    {
+      "item": "finisher-water-spout",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
