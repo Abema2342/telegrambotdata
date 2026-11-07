@@ -364,6 +364,11 @@
       "item": "finisher-lightning-strike",
       "finisher": null,
       "quantity": 2
+    },
+    {
+      "item": "finisher-confetti",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
