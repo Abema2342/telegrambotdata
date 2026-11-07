@@ -349,6 +349,11 @@
       "item": "finisher-time-stop",
       "finisher": null,
       "quantity": 3
+    },
+    {
+      "item": "knife-ghostwalker",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
