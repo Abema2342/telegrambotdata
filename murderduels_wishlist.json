@@ -352,7 +352,7 @@
     },
     {
       "item": "knife-ghostwalker",
-      "finisher": null,
+      "finisher": "finisher-ghostwalker",
       "quantity": 1
     }
   ]
