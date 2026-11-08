@@ -379,6 +379,11 @@
       "item": "revolver-kitty-cone",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "knife-kitty-cone",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
