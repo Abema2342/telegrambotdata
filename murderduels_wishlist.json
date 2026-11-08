@@ -374,6 +374,11 @@
       "item": "finisher-zombify",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "finisher-duck",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
