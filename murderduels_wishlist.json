@@ -389,6 +389,11 @@
       "item": "knife-infected",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "knife-mono-saber",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
