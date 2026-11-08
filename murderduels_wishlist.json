@@ -384,6 +384,11 @@
       "item": "knife-kitty-cone",
       "finisher": null,
       "quantity": 1
+    },
+    {
+      "item": "knife-infected",
+      "finisher": null,
+      "quantity": 1
     }
   ]
 }
