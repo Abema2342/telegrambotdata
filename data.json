@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-11T09:23:07+03:00",
+  "last_updated": "2026-11-11T09:28:09+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
-      "requests": 87,
-      "last_message": "2026-11-11T09:16:57+03:00"
+      "requests": 88,
+      "last_message": "2026-11-11T09:24:34+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -2492,6 +2492,14 @@
       "first_name": "missed @RUBUP",
       "text": "225",
       "time": "2026-11-11T09:16:57+03:00"
+    },
+    {
+      "id": 273,
+      "user_id": 6706322460,
+      "username": "loureatus",
+      "first_name": "missed @RUBUP",
+      "text": "228",
+      "time": "2026-11-11T09:24:34+03:00"
     }
   ],
   "admins": [
