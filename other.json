@@ -1,22 +1,27 @@
-[
-  {
-    "time": "2026-11-12T11:56:00.000Z",
-    "action": "arrived",
-    "place": "Дом"
-  },
-  {
-    "time": "2026-11-12T11:50:00.000Z",
-    "action": "left",
-    "place": "Школа"
-  },
-  {
-    "time": "2026-11-12T04:56:00.000Z",
-    "action": "arrived",
-    "place": "Школа"
-  },
-  {
-    "time": "2026-11-12T04:50:00.000Z",
-    "action": "left",
-    "place": "Дом"
+{
+  "logs": [
+    {
+      "time": "2026-11-12T11:56:00.000Z",
+      "action": "arrived",
+      "place": "Дом"
+    },
+    {
+      "time": "2026-11-12T11:50:00.000Z",
+      "action": "left",
+      "place": "Школа"
+    },
+    {
+      "time": "2026-11-12T04:56:00.000Z",
+      "action": "arrived",
+      "place": "Школа"
+    },
+    {
+      "time": "2026-11-12T04:50:00.000Z",
+      "action": "left",
+      "place": "Дом"
+    }
+  ],
+  "calendar": {
+    "2026-11-01": "programming"
   }
-]
+}
