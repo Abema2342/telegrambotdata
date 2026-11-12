@@ -22,16 +22,24 @@
     }
   ],
   "calendar": {
-    "2026-11-25": "programming",
+    "2026-11-25": [
+      "wrestling"
+    ],
     "2026-11-17": "programming",
-    "2026-11-18": "programming",
-    "2026-11-19": "programming",
+    "2026-11-18": [
+      "wrestling"
+    ],
+    "2026-11-19": [
+      "wrestling"
+    ],
     "2026-11-21": "programming",
     "2026-11-14": "programming",
     "2026-11-13": "programming",
     "2026-11-06": "programming",
     "2026-11-05": "programming",
-    "2026-11-12": "programming",
+    "2026-11-12": [
+      "wrestling"
+    ],
     "2026-11-04": "programming",
     "2026-11-02": "programming",
     "2026-11-10": "programming",
