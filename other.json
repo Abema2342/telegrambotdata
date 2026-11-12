@@ -21,5 +21,7 @@
       "place": "Дом"
     }
   ],
-  "calendar": {}
+  "calendar": {
+    "2026-11-25": "programming"
+  }
 }
