@@ -1,6 +1,11 @@
 {
   "logs": [
     {
+      "time": "2026-11-14T10:35:00.000Z",
+      "action": "arrived",
+      "place": "Дом"
+    },
+    {
       "time": "2026-11-14T10:30:00.000Z",
       "action": "left",
       "place": "Школа"
