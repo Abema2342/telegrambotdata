@@ -1,12 +1,4 @@
 {
-  "logs": [
-    {
-      "place": "Никуля",
-      "leaveHome": "2026-11-21T20:39:21.999Z",
-      "arriveDest": null,
-      "leaveDest": null,
-      "arriveHome": null
-    }
-  ],
+  "logs": [],
   "calendar": {}
 }
