@@ -111,6 +111,12 @@
       "name": "Белорусский язык",
       "is_chemistry": false,
       "sections": []
+    },
+    {
+      "id": null,
+      "name": "Белорусская литература",
+      "is_chemistry": false,
+      "sections": []
     }
   ]
 }
