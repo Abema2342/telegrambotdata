@@ -133,6 +133,12 @@
       "name": "Белорусская литература",
       "is_chemistry": false,
       "sections": []
+    },
+    {
+      "id": null,
+      "name": "Химия (параграфы)",
+      "is_chemistry": false,
+      "sections": []
     }
   ]
 }
