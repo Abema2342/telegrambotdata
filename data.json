@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-23T20:23:18+03:00",
+  "last_updated": "2026-11-23T20:28:20+03:00",
   "users": {
     "6706322460": {
       "username": "",
       "first_name": "номер скрыт",
       "banned": false,
       "requests": 98,
-      "last_message": "2026-11-15T19:53:23+03:00"
+      "last_message": "2026-11-23T20:23:47+03:00"
     },
     "5621097782": {
       "username": "Xyalani_kinn",
@@ -23,30 +23,6 @@
     }
   },
   "messages": [
-    {
-      "id": 31,
-      "user_id": 5621097782,
-      "username": "Xyalani_kinn",
-      "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
-      "text": "29",
-      "time": "2026-09-23T21:33:57+03:00"
-    },
-    {
-      "id": 32,
-      "user_id": 6706322460,
-      "username": "",
-      "first_name": "номер скрыт",
-      "text": "Английский",
-      "time": "2026-09-23T21:35:00+03:00"
-    },
-    {
-      "id": 33,
-      "user_id": 6706322460,
-      "username": "",
-      "first_name": "номер скрыт",
-      "text": "28",
-      "time": "2026-09-23T21:35:01+03:00"
-    },
     {
       "id": 34,
       "user_id": 6706322460,
@@ -4022,6 +3998,30 @@
       "first_name": "𝔀𝓲𝓽𝓱 𝓵𝓸𝓿𝓮, 𝓪𝓷𝓷𝓪 𝓿𝔂𝓪𝓬𝓱𝓮𝓼𝓵𝓪𝓿𝓸𝓿𝓷𝓪ᶻ 𝘇 𐰁",
       "text": "123",
       "time": "2026-11-19T21:14:59+03:00"
+    },
+    {
+      "id": 531,
+      "user_id": 6706322460,
+      "username": "loureatus",
+      "first_name": "#freemissed @RUBUP",
+      "text": "§ 1",
+      "time": "2026-11-23T20:23:44+03:00"
+    },
+    {
+      "id": 532,
+      "user_id": 6706322460,
+      "username": "loureatus",
+      "first_name": "#freemissed @RUBUP",
+      "text": "📚 ГДЗ",
+      "time": "2026-11-23T20:23:46+03:00"
+    },
+    {
+      "id": 533,
+      "user_id": 6706322460,
+      "username": "loureatus",
+      "first_name": "#freemissed @RUBUP",
+      "text": "Русский",
+      "time": "2026-11-23T20:23:47+03:00"
     }
   ],
   "admins": [
